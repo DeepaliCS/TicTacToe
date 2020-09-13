@@ -2,7 +2,7 @@
 
 A simple tic tac toe game or Noughts and crosses game.
 
-# Game play/ Usage
+## Game play/Usage
 The players of the game are computer vs user, and there are levels starting from easy, medium and hard. That hard level is based on how the computer is able to eliminate the possibilities for the user to win.
 
 AI can be incorporated so that the computer can predict potential moves the user can make, this would inevitably make the game even more difficult for the user.
